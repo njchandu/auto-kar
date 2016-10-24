@@ -1,0 +1,20 @@
+{
+  "hosts" : [ {
+    "title" : "CJavaregowda-MAC.local",
+    "threads" : [ {
+      "title" : "98777@CJavaregowda-MAC.local.main(1)",
+      "testCases" : [ {
+        "uid" : "514f305975af22ff",
+        "name" : "example",
+        "title" : "Example",
+        "time" : {
+          "start" : 1477304191505,
+          "stop" : 1477304191507,
+          "duration" : 2
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      } ]
+    } ]
+  } ]
+}
