@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1477567318725" stop="1477567326016" version="1.4.23.HOTFIX1" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default Suite : auto-kar</name>
+    <title>Default Suite : auto-kar</title>
+    <test-cases>
+        <test-case start="1477567325942" stop="1477567325943" status="passed">
+            <name>example</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="CJavaregowda-MAC.local"/>
+                <label name="thread" value="69448@CJavaregowda-MAC.local.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
