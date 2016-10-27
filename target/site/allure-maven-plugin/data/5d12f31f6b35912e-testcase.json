@@ -1,0 +1,128 @@
+{
+  "uid" : "5d12f31f6b35912e",
+  "name" : "example",
+  "title" : "Example",
+  "time" : {
+    "start" : 1477577397375,
+    "stop" : 1477577496387,
+    "duration" : 99012
+  },
+  "summary" : {
+    "attachments" : 1,
+    "steps" : 5
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "5d30f25835a4cd13",
+    "name" : "Surefire suite : Surefire test",
+    "title" : "Surefire suite : Surefire test"
+  },
+  "steps" : [ {
+    "name" : "selectPickup[Big Ben London ]",
+    "title" : "Choose pickup point to Big Ben London .",
+    "time" : {
+      "start" : 1477577410298,
+      "stop" : 1477577456326,
+      "duration" : 46028
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "selectDropPoint[Southwark Station London ]",
+    "title" : "Choose drop point to Southwark Station London .",
+    "time" : {
+      "start" : 1477577461331,
+      "stop" : 1477577477565,
+      "duration" : 16234
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "isSorted[[7.2, 8.0, 9.05]]",
+    "title" : "Verify if the list is sorted by price.",
+    "time" : {
+      "start" : 1477577493364,
+      "stop" : 1477577493364,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "gotoEta",
+    "title" : "Go to ETA view.",
+    "time" : {
+      "start" : 1477577493365,
+      "stop" : 1477577493631,
+      "duration" : 266
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "isSorted[[7.0, 13.0, 12.0]]",
+    "title" : "Verify if the list is sorted by price.",
+    "time" : {
+      "start" : 1477577493633,
+      "stop" : 1477577493633,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ {
+    "title" : "Page screenshot",
+    "source" : "260586d6-5c41-4f7d-8885-9757a2d2889f-attachment.png",
+    "type" : "image/png",
+    "size" : 926414,
+    "uid" : "732bfece710c50"
+  } ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "suite-name",
+    "value" : "Surefire suite : Surefire test"
+  }, {
+    "name" : "host",
+    "value" : "CJavaregowda-MAC.local"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "thread",
+    "value" : "79210@CJavaregowda-MAC.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "suite-title",
+    "value" : "Surefire suite : Surefire test"
+  } ],
+  "parameters" : [ ]
+}

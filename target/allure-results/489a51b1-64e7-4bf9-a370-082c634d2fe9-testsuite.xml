@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1477577389215" stop="1477577496404" version="1.4.23.HOTFIX1" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Surefire suite : Surefire test</name>
+    <title>Surefire suite : Surefire test</title>
+    <test-cases>
+        <test-case start="1477577397375" stop="1477577496387" status="passed">
+            <name>example</name>
+            <steps>
+                <step start="1477577410298" stop="1477577456326" status="passed">
+                    <name>selectPickup[Big Ben London ]</name>
+                    <title>Choose pickup point to Big Ben London .</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1477577461331" stop="1477577477565" status="passed">
+                    <name>selectDropPoint[Southwark Station London ]</name>
+                    <title>Choose drop point to Southwark Station London .</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1477577493364" stop="1477577493364" status="passed">
+                    <name>isSorted[[7.2, 8.0, 9.05]]</name>
+                    <title>Verify if the list is sorted by price.</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1477577493365" stop="1477577493631" status="passed">
+                    <name>gotoEta</name>
+                    <title>Go to ETA view.</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1477577493633" stop="1477577493633" status="passed">
+                    <name>isSorted[[7.0, 13.0, 12.0]]</name>
+                    <title>Verify if the list is sorted by price.</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments>
+                <attachment title="Page screenshot" source="260586d6-5c41-4f7d-8885-9757a2d2889f-attachment.png" type="image/png"/>
+            </attachments>
+            <labels>
+                <label name="host" value="CJavaregowda-MAC.local"/>
+                <label name="thread" value="79210@CJavaregowda-MAC.local.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

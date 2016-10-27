@@ -1,12 +1,12 @@
 {
   "testCases" : [ {
-    "uid" : "a96804171999b620",
+    "uid" : "5d12f31f6b35912e",
     "name" : "example",
     "title" : "Example",
     "time" : {
-      "start" : 1477304191505,
-      "stop" : 1477304191507,
-      "duration" : 2
+      "start" : 1477577397375,
+      "stop" : 1477577496387,
+      "duration" : 99012
     },
     "severity" : "NORMAL",
     "status" : "PASSED"

@@ -1,17 +1,17 @@
 {
   "time" : {
-    "start" : 1477304191505,
-    "stop" : 1477304191507,
-    "duration" : 2
+    "start" : 1477577397375,
+    "stop" : 1477577496387,
+    "duration" : 99012
   },
   "testSuites" : [ {
-    "uid" : "8e8448d38ae76c94",
+    "uid" : "5d30f25835a4cd13",
     "name" : "Surefire suite : Surefire test",
     "title" : "Surefire suite : Surefire test",
     "time" : {
-      "start" : 1477304191505,
-      "stop" : 1477304191507,
-      "duration" : 2
+      "start" : 1477577397375,
+      "stop" : 1477577496387,
+      "duration" : 99012
     },
     "statistic" : {
       "total" : 1,
@@ -23,13 +23,13 @@
     },
     "description" : null,
     "testCases" : [ {
-      "uid" : "a96804171999b620",
+      "uid" : "5d12f31f6b35912e",
       "name" : "example",
       "title" : "Example",
       "time" : {
-        "start" : 1477304191505,
-        "stop" : 1477304191507,
-        "duration" : 2
+        "start" : 1477577397375,
+        "stop" : 1477577496387,
+        "duration" : 99012
       },
       "severity" : "NORMAL",
       "status" : "PASSED"

@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Surefire suite" duration-ms="198" started-at="2016-10-24T10:16:31Z" finished-at="2016-10-24T10:16:31Z">
+  <suite name="Surefire suite" duration-ms="107188" started-at="2016-10-27T14:09:49Z" finished-at="2016-10-27T14:11:36Z">
     <groups>
     </groups>
-    <test name="Surefire test" duration-ms="198" started-at="2016-10-24T10:16:31Z" finished-at="2016-10-24T10:16:31Z">
+    <test name="Surefire test" duration-ms="107188" started-at="2016-10-27T14:09:49Z" finished-at="2016-10-27T14:11:36Z">
       <class name="Testing">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:Testing@2873d672]" name="setUp" is-config="true" duration-ms="26" started-at="2016-10-24T15:46:31Z" finished-at="2016-10-24T15:46:31Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Testing@64c4c01]" name="setUp" is-config="true" duration-ms="7837" started-at="2016-10-27T19:39:49Z" finished-at="2016-10-27T19:39:57Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="example()[pri:0, instance:Testing@2873d672]" name="example" duration-ms="29" started-at="2016-10-24T15:46:31Z" finished-at="2016-10-24T15:46:31Z">
+        <test-method status="PASS" signature="example()[pri:0, instance:Testing@64c4c01]" name="example" duration-ms="96565" started-at="2016-10-27T19:39:57Z" finished-at="2016-10-27T19:41:33Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- example -->
