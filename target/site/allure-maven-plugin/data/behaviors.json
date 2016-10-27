@@ -10,7 +10,7 @@
       "broken" : 0
     },
     "stories" : [ {
-      "uid" : "49d5cea804353fb",
+      "uid" : "e53175947a2ee949",
       "title" : "Without story",
       "statistic" : {
         "total" : 1,
@@ -21,7 +21,7 @@
         "broken" : 0
       },
       "testCases" : [ {
-        "uid" : "514f305975af22ff",
+        "uid" : "a96804171999b620",
         "name" : "example",
         "title" : "Example",
         "time" : {

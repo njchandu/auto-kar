@@ -5,7 +5,7 @@
     "duration" : 2
   },
   "testSuites" : [ {
-    "uid" : "2cb4c7f3707f37c9",
+    "uid" : "8e8448d38ae76c94",
     "name" : "Surefire suite : Surefire test",
     "title" : "Surefire suite : Surefire test",
     "time" : {
@@ -23,7 +23,7 @@
     },
     "description" : null,
     "testCases" : [ {
-      "uid" : "514f305975af22ff",
+      "uid" : "a96804171999b620",
       "name" : "example",
       "title" : "Example",
       "time" : {
