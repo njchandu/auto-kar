@@ -74,11 +74,13 @@ public class Testing {
 
     @Step("Go to ETA view.")
     private void gotoEta() {
+        System.out.println("Go to ETA view.");
         driver.findElement(By.id("com.karhoo.app:id/eta_button")).click();
     }
 
     @Step("Verify if the list is sorted by price.")
     private boolean isSorted(List<Double> list) {
+        System.out.println("Verify if the list is sorted by price.");
         System.out.println(list.toString());
         List tmp = new ArrayList(list);
         Collections.sort(tmp);
@@ -89,6 +91,7 @@ public class Testing {
 
     @Step("Choose pickup point to {0}.")
     public void selectPickup(String pickupPoint) throws InterruptedException {
+        System.out.println("Choose pickup point to " + pickupPoint);
         try {
             driver.findElement(By.id("com.karhoo.app:id/pickup_frame_container")).click();
         } catch (NoSuchElementException nse) {
@@ -102,6 +105,7 @@ public class Testing {
 
     @Step("Choose drop point to {0}.")
     public void selectDropPoint(String dropPoint) throws InterruptedException {
+        System.out.println("Choose pickup point to " + dropPoint);
         driver.findElement(By.id("com.karhoo.app:id/tv_dropoff")).click();
         driver.findElement(By.id("com.karhoo.app:id/search_container")).click();
         driver.findElement(By.id("com.karhoo.app:id/search_container")).sendKeys(dropPoint);
